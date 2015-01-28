@@ -10,7 +10,7 @@ It can be found here: [CodeBrauer/gmod-loadingscreen-2](https://github.com/CodeB
 
 ## demo
 
-**[see it in action here // can be a modified version..](http://gabrielw.de/gmod/?steamid=76561198051267973&mapname=test)**
+**[see it in action here // can be a modified version..](http://gabrielw.de/gmod/?steamid=DoctorZambie&mapname=test)**
 
 **[Screenshot](http://i.imgur.com/kdmSZ18.png)**
 

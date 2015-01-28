@@ -4,14 +4,14 @@ error_reporting(0);
 @set_time_limit(3);
 
 $r       = mt_rand(1,3);
-$plname  = 'Player';
+$plname  = '';
 $map     = '';
-$avatar  = 'img/nouser.png';
+$avatar  = '';
 
 $authors = array(
-    1 => 'FIRST SONG NAME',
-    2 => 'SECOND SONG NAME',
-    3 => 'THIRD SONG NAME'
+    1 => 'Tobu - Higher',
+    2 => 'Electro House Mix',
+    3 => 'Ahrix - Nova'
 );
 
 $pictures = array(1,2,3);
